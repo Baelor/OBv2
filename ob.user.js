@@ -48,8 +48,8 @@
 // @contributionAmount       €3.00
 // @encoding                 UTF-8
 // @priority                 1
-// @require                  https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require                  https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js
+// @require                  https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @require                  https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js
 // @require                  https://cdnjs.cloudflare.com/ajax/libs/howler/1.1.17/howler.min.js
 // @resource    css          https://raw.githubusercontent.com/OmertaBeyond/OBv2/master/scripts/beyond.css
 // @resource    favicon      https://raw.githubusercontent.com/OmertaBeyond/OBv2/master/images/favicon.png
